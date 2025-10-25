@@ -63,15 +63,7 @@ print ( "Antonyms : " ,set(antonyms) )
 ```
 
 ## Output
-<img width="417" height="38" alt="image" src="https://github.com/user-attachments/assets/933cdd52-75cf-47ad-94de-dbba53815242" />
-
-<img width="198" height="171" alt="image" src="https://github.com/user-attachments/assets/4ba551dd-ce8e-4ffb-b030-30d4f1fd1cdf" />
-
-<img width="1772" height="22" alt="image" src="https://github.com/user-attachments/assets/c3ddba41-9947-449a-bb16-1400d95a1e1d" />
-
-<img width="1612" height="26" alt="image" src="https://github.com/user-attachments/assets/0bee1117-d0e6-4f03-8436-34e451c741ce" />
-
-<img width="358" height="25" alt="image" src="https://github.com/user-attachments/assets/569d69f0-aaaa-46f5-aceb-cbe900c6a734" />
+<img width="1678" height="197" alt="image" src="https://github.com/user-attachments/assets/0f2e4555-68f9-49c0-bd63-73f3c7b750d5" />
 
 ## Result:
 Thus ,the program to perform the Parts of Speech identification and Synonymis executed sucessfully.
